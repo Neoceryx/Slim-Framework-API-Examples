@@ -1,6 +1,6 @@
 # Slim-Framework-API-Examples
 
-This Repo contains someones basics examples using slim framewrok to create an API.
+This Repo contains someones basics examples using slim framewrok to create an API. And ajax to send the values to the APIS
 
 <h4> How Use it </h4>
 <p> 
